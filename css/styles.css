@@ -2,3 +2,26 @@ table, th, td {
   border: 1px solid black;
 }
 
+.about {
+  background-color: red;
+}
+
+.education {
+  background-color: orange;
+}
+
+.workExperience {
+  background-color: yellow;
+}
+
+.skills {
+  background-color: green;
+}
+
+.table {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.skillstext {
+  font-weight: bolder;
+}
